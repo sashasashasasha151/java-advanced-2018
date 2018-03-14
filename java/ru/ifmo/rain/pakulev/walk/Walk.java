@@ -4,7 +4,6 @@ import java.io.*;
 
 public class Walk {
     public static void main(String[] args) {
-
         if (args == null || (args.length > 1 && (args[0] == null || args[1] == null))) {
             System.err.println("Unsupported arguments");
             return;

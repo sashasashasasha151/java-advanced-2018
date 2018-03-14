@@ -52,7 +52,7 @@ public class StudentDB implements StudentQuery {
     public String getMinStudentFirstName(List<Student> students) {
         return students.stream()
                 .min(Comparator.comparing(Student::getId))
-                .orElse(new Student(0, "", "", "")).getFirstName();
+                .map(Student::getFirstName).orElse("");
     }
 
     public List<Student> sortStudentsById(Collection<Student> students) {
