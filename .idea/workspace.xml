@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9ebaab-2631-4663-ba58-8611a294c61c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/artifacts/ImplementorTest.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test01_oneEmptyFile.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test01_oneEmptyFile.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test01_oneEmptyFile/4VTLTjIVw4LEsZydld09iGQNi7yGoQ" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/5Xr3pHA7NshUACcLZJpiYhtkTuAExX" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/77pjXGWBdMKx77Bh3RlQzBX0eiu70n" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/8CSVQDX3zuFw9b76qInYVCjNydyyfx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/Egm0yMtOPYGDNHELJcPO44sVWYGR2p" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/IOv9jdV7oKhpzTAp7mzvbkx7sXulVD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/iABUiurQqPpJBlTTMZH5gB7w0u1ljL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/jefBuAquqOOC58UTlqSrkrwuXbg0ad" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/sm9m6nFbDGyUCY89pcVnrBFH3UJgyf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/ttAcStBezgRhNz8k7VPFHOe7amPEcM" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles/uB1ZHzTwYW1veQKJVz7d9mgJsE71LW" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles/5BmhsIvjnFdI86jUvCSaZeHIWR8XTF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles/8z3tkp4q1BxxH20ZNP2YTM1NlC2DVT" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles/Db7nnXCXH3YnGECoZh04RMlNOGuTYv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading/7oz4hAxnxsdmNpnJWmfevvx6zBqVH3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading/cHvZMdWL84GD6vSnnlP7FddEzD5FsR" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading/vCCfS1Q0XMq7l3I5rS0Yg7sRpJP17R" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/1AcQpq17XcBHtBKmN6sINq1Be3eNbG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/4kHisZcSPaFuEm3PACLtxzkt9d1fU4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/9uKpRWtooh77T2TWmYQehs5p9WVhbF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/GnawupXk2sCcMrIbdWdEx8j9xYM62e" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/OMYatKmYiUNNQ1RV0Llh97x0bCIo9X" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/ZccG4auUpumuE2jWugKbbll0oyqVBb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/jSO7Jevsfgc5z7lpWCcZCSnYgTTMfv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/merowNLernryqAsrUabx5YrM3URaPB" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/toHBqAYIa1oR7kjrnYjjcH2zGVNb27" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles/x1oQ9CNAXpBvIDNjOGGLiOzsPJh5rz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/23o5JqEIOU8pDow895hflJrd3qbRbB" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/LVfAoBEginwND2FAkqTOPYzB69WBHO" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/NI6ogOnfm2daugEWGeRRORtvTKGSdP" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/RT6ZxedhzCmgCVrZw7TMfjPQyEMvAT" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/RqYUugZBCY08zhLWUlOB3yiFZdSuCq" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/fkKdYIR9zavTK9tyrd3aOFUWksvjUc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/nfgPt5dfVePO4Mxz8VO4OFDzZF1bcn" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/syOAFikrYBf4vQVPInpJ5movzfzom1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/wzJDBUlk9CuselAuhvyFYbBsvS7FXP" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles/xC8XaKhPlJyoFBREx8LjAUYBblihnc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/8Q9URWZFjuaWLSzHUhRgCKDA6QT4Q4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/8sodJ1hqpiyai2FnNKGXnaxfuKgiuO" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/92M9mhjQOFtnrRvUSXj9eIzoqxLBTZ" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/9jLx7HBVJvEZ7moT1kAlkMpKPUcnS8" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/I4YUepp9fgRYPj7Hm3EM9dm25N9WyR" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/J3uBJdfv2eS92XClQgOzz644FibZrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/P1HVPEAawLrihvU8VDksne3tQyGe9s" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/pmJAKxcnpZ2eNjnSNLY3rWtFwnH7Rx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/qpr3oVtT7pfQ8qaw8uOXDHSoD5Ydju" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles/tUIwvoqAFThyVE2OfsOTMK3NzvlFmo" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你你的程問國持你請請支序程問支問的問中程序序國國程支的中序程" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你序持持中你中國的支序問持中序程你請問請支序支序問程程持序問" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你程程請中國持問序請支中支中請問請請程問持國中請中持支請請的" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/問問問你持中問持中你序國國你請國中程持問序你序問程支的持你程" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序中中支序序國的支中持的問程請的的的國國中請問支的支程請請你" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序你持持國請中請程序國的持你問中問序請序中程的支國問你問中問" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序國支請你請國國的國的持問支國程程你支序的程的你的請中序支程" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/持請請的支中序支程問持國程中問請持序程序的國序支持序的支問支" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/支中請持請的序問國序序問持請國支程中的請支國序問問請的你問持" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/程國持程國中程問的序國程序序國你中持中國國程的程國的問國程問" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test11_invalidOutput" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test12_singleArgument" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile/ACxG1iM5JeKs7po5xtTNloqMFb8KoJ" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile/你程你程問中程你持程持持請支中序中的的問問程的程的國持程程請" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test14_invalidFiles.in" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test14_invalidFiles.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/artifacts/StudentTest.jar" afterPath="$PROJECT_DIR$/artifacts/StudentTest.jar" />
-      <change beforePath="$PROJECT_DIR$/java-advanced-2018.iml" afterPath="$PROJECT_DIR$/java-advanced-2018.iml" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/walk/Walk.java" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/walk/Walk.java" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/ru/ifmo/rain/pakulev/walk/Walk.class" afterPath="$PROJECT_DIR$/out/production/java-advanced-2018/ru/ifmo/rain/pakulev/walk/Walk.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -527,7 +439,7 @@
       <workItem from="1519650725987" duration="11420000" />
       <workItem from="1520067077644" duration="9588000" />
       <workItem from="1520419247661" duration="7862000" />
-      <workItem from="1520889127842" duration="39213000" />
+      <workItem from="1520889127842" duration="39274000" />
     </task>
     <task id="LOCAL-00001" summary="homework 3">
       <created>1520076302240</created>
@@ -550,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520466571209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework 4">
+      <created>1521031668705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521031668707</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112589000" />
+    <option name="totallyTimeSpent" value="112650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -568,11 +487,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18660812" sideWeight="0.50208336" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47969264" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47969264" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -599,7 +518,8 @@
     <MESSAGE value="homework 3" />
     <MESSAGE value="homework 3.1" />
     <MESSAGE value="homework 3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 3.2" />
+    <MESSAGE value="homework 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
