@@ -23,15 +23,6 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/artifacts/StudentTest.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
           <root url="jar://$MODULE_DIR$/artifacts/ImplementorTest.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -41,7 +32,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/artifacts/ArraySetTest.jar!/" />
+          <root url="jar://$MODULE_DIR$/artifacts/JarImplementorTest.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
