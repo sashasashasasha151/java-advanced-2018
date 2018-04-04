@@ -1,35 +1,38 @@
 package ru.ifmo.rain.pakulev.concurrent;
 
-import info.kgeorgiy.java.advanced.concurrent.ScalarIP;
+import info.kgeorgiy.java.advanced.concurrent.ListIP;
 
 import java.util.*;
 import java.util.function.Function;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 
-public class Concurrent implements ScalarIP {
+public class Concurrent implements ListIP {
 
     private <T, R> R mainFunction(int i, List<? extends T> list,
-                                  final Function<Stream<? extends T>, ? extends R> resultF,
-                                  final Function<Stream<? extends R>, ? extends R> resultR) throws InterruptedException {
+                                  Function<Stream<? extends T>, ? extends R> resultF,
+                                  Function<Stream<? extends R>, ? extends R> resultR) throws InterruptedException {
         if (list.size() <= i) {
             return resultF.apply(list.stream());
         }
 
-        ArrayList<R> answer = new ArrayList<R>(Collections.nCopies(i, null));
-        ArrayList<Thread> threads = new ArrayList<Thread>(Collections.nCopies(i, null));
+        ArrayList<R> answer = new ArrayList<>(Collections.nCopies(i, null));
+        ArrayList<Thread> threads = new ArrayList<>(Collections.nCopies(i, null));
         int remainder = list.size() % i;
+        int rr = 0;
         for (int j = 0; j < i; ++j) {
             int blockSize = list.size() / i + (remainder-- > 0 ? 1 : 0);
             final int k = j;
-            final int l = j * blockSize;
+            final int l = rr;
             final int r = l + blockSize;
+            rr = r;
             Thread t = new Thread(() -> {
                 answer.set(k, resultF.apply(list.subList(l, r < list.size() ? r : list.size()).stream()));
             });
             threads.set(k, t);
-            t.start();
+            threads.get(k).start();
         }
 
         for (Thread thread : threads) {
@@ -53,5 +56,20 @@ public class Concurrent implements ScalarIP {
 
     public <T> boolean any(int i, List<? extends T> list, Predicate<? super T> predicate) throws InterruptedException {
         return mainFunction(i, list, stream -> stream.anyMatch(predicate), stream -> stream.anyMatch(p -> p));
+    }
+
+    public String join(int i, List<?> list) throws InterruptedException {
+        return mainFunction(i, list, stream -> stream.map(Objects::toString).reduce(String::concat).orElse(""),
+                stream -> stream.map(Objects::toString).reduce(String::concat).orElse(""));
+    }
+
+    public <T> List<T> filter(int i, List<? extends T> list, Predicate<? super T> predicate) throws InterruptedException {
+        return mainFunction(i, list, stream -> stream.filter(predicate).collect(Collectors.toList()),
+                stream -> stream.flatMap(Collection::stream).collect(Collectors.toList()));
+    }
+
+    public <T, U> List<U> map(int i, List<? extends T> list, Function<? super T, ? extends U> function) throws InterruptedException {
+        return mainFunction(i, list, stream -> stream.map(function).collect(Collectors.toList()),
+                stream -> stream.flatMap(Collection::stream).collect(Collectors.toList()));
     }
 }
