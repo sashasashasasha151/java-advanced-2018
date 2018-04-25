@@ -2,119 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9ebaab-2631-4663-ba58-8611a294c61c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GenerateJar.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artifacts/WebCrawlerTest.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/crawler/WebCrawler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/RDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test01_oneEmptyFile.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test01_oneEmptyFile.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你你的程問國持你請請支序程問支問的問中程序序國國程支的中序程" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你序持持中你中國的支序問持中序程你請問請支序支序問程程持序問" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你程程請中國持問序請支中支中請問請請程問持國中請中持支請請的" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/問問問你持中問持中你序國國你請國中程持問序你序問程支的持你程" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序中中支序序國的支中持的問程請的的的國國中請問支的支程請請你" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序你持持國請中請程序國的持你問中問序請序中程的支國問你問中問" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序國支請你請國國的國的持問支國程程你支序的程的你的請中序支程" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/持請請的支中序支程問持國程中問請持序程序的國序支持序的支問支" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/支中請持請的序問國序序問持請國支程中的請支國序問問請的你問持" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/程國持程國中程問的序國程序序國你中持中國國程的程國的問國程問" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advanced-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-2018.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/arrayset/ArraySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/arrayset/ArraySet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/walk/Walk.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/walk/Walk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test01_oneEmptyFile.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test01_oneEmptyFile.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test01_oneEmptyFile/4VTLTjIVw4LEsZydld09iGQNi7yGoQ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/5Xr3pHA7NshUACcLZJpiYhtkTuAExX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/77pjXGWBdMKx77Bh3RlQzBX0eiu70n" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/8CSVQDX3zuFw9b76qInYVCjNydyyfx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/Egm0yMtOPYGDNHELJcPO44sVWYGR2p" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/IOv9jdV7oKhpzTAp7mzvbkx7sXulVD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/iABUiurQqPpJBlTTMZH5gB7w0u1ljL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/jefBuAquqOOC58UTlqSrkrwuXbg0ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/sm9m6nFbDGyUCY89pcVnrBFH3UJgyf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/ttAcStBezgRhNz8k7VPFHOe7amPEcM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/uB1ZHzTwYW1veQKJVz7d9mgJsE71LW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles/5BmhsIvjnFdI86jUvCSaZeHIWR8XTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles/8z3tkp4q1BxxH20ZNP2YTM1NlC2DVT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles/Db7nnXCXH3YnGECoZh04RMlNOGuTYv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading/7oz4hAxnxsdmNpnJWmfevvx6zBqVH3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading/cHvZMdWL84GD6vSnnlP7FddEzD5FsR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading/vCCfS1Q0XMq7l3I5rS0Yg7sRpJP17R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/1AcQpq17XcBHtBKmN6sINq1Be3eNbG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/4kHisZcSPaFuEm3PACLtxzkt9d1fU4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/9uKpRWtooh77T2TWmYQehs5p9WVhbF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/GnawupXk2sCcMrIbdWdEx8j9xYM62e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/OMYatKmYiUNNQ1RV0Llh97x0bCIo9X" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/ZccG4auUpumuE2jWugKbbll0oyqVBb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/jSO7Jevsfgc5z7lpWCcZCSnYgTTMfv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/merowNLernryqAsrUabx5YrM3URaPB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/toHBqAYIa1oR7kjrnYjjcH2zGVNb27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/x1oQ9CNAXpBvIDNjOGGLiOzsPJh5rz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/23o5JqEIOU8pDow895hflJrd3qbRbB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/LVfAoBEginwND2FAkqTOPYzB69WBHO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/NI6ogOnfm2daugEWGeRRORtvTKGSdP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/RT6ZxedhzCmgCVrZw7TMfjPQyEMvAT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/RqYUugZBCY08zhLWUlOB3yiFZdSuCq" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/fkKdYIR9zavTK9tyrd3aOFUWksvjUc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/nfgPt5dfVePO4Mxz8VO4OFDzZF1bcn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/syOAFikrYBf4vQVPInpJ5movzfzom1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/wzJDBUlk9CuselAuhvyFYbBsvS7FXP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/xC8XaKhPlJyoFBREx8LjAUYBblihnc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/8Q9URWZFjuaWLSzHUhRgCKDA6QT4Q4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/8sodJ1hqpiyai2FnNKGXnaxfuKgiuO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/92M9mhjQOFtnrRvUSXj9eIzoqxLBTZ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/9jLx7HBVJvEZ7moT1kAlkMpKPUcnS8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/I4YUepp9fgRYPj7Hm3EM9dm25N9WyR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/J3uBJdfv2eS92XClQgOzz644FibZrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/P1HVPEAawLrihvU8VDksne3tQyGe9s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/pmJAKxcnpZ2eNjnSNLY3rWtFwnH7Rx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/qpr3oVtT7pfQ8qaw8uOXDHSoD5Ydju" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/tUIwvoqAFThyVE2OfsOTMK3NzvlFmo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/你你的程問國持你請請支序程問支問的問中程序序國國程支的中序程" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/你序持持中你中國的支序問持中序程你請問請支序支序問程程持序問" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/你程程請中國持問序請支中支中請問請請程問持國中請中持支請請的" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/問問問你持中問持中你序國國你請國中程持問序你序問程支的持你程" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/序中中支序序國的支中持的問程請的的的國國中請問支的支程請請你" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/序你持持國請中請程序國的持你問中問序請序中程的支國問你問中問" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/序國支請你請國國的國的持問支國程程你支序的程的你的請中序支程" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/持請請的支中序支程問持國程中問請持序程序的國序支持序的支問支" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/支中請持請的序問國序序問持請國支程中的請支國序問問請的你問持" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/程國持程國中程問的序國程序序國你中持中國國程的程國的問國程問" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test11_invalidOutput" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test12_singleArgument" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test13_veryLargeFile.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test13_veryLargeFile.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test13_veryLargeFile/ACxG1iM5JeKs7po5xtTNloqMFb8KoJ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test14_invalidFiles.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test14_invalidFiles.out" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,8 +18,8 @@
       <file leaf-file-name="ParallelMapperImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="611">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,7 +30,7 @@
       <file leaf-file-name="Concurrent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="165">
               <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -246,6 +135,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -295,7 +185,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,6 +407,7 @@
       <workItem from="1523530095182" duration="599000" />
       <workItem from="1523961296790" duration="17023000" />
       <workItem from="1524578271902" duration="3494000" />
+      <workItem from="1524682684999" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="homework 3">
       <created>1520076302240</created>
@@ -582,18 +472,32 @@
       <option name="project" value="LOCAL" />
       <updated>1522842558226</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="something">
+      <created>1524682813052</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1524682813052</updated>
+    </task>
+    <task id="LOCAL-00011" summary="something">
+      <created>1524683729926</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1524683729926</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220591000" />
+    <option name="totallyTimeSpent" value="222195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1039" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32864866" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -620,6 +524,7 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32930845" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32864866" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -786,20 +691,8 @@
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class" />
-    <entry file="file://$USER_HOME$/.cache/.fr-KHVfRm/ru/ifmo/rain/pakulev/implementor/Implementor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.cache/.fr-yGcxU4/java/util/SetImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.cache/.fr-KHVfRm/ru/ifmo/rain/pakulev/implementor/Implementor.class" />
+    <entry file="file://$USER_HOME$/.cache/.fr-yGcxU4/java/util/SetImpl.class" />
     <entry file="jar:///usr/lib64/openjdk-8/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -877,7 +770,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="165">
           <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -887,8 +780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="611">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

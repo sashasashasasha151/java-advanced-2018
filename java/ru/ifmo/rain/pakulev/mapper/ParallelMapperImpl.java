@@ -57,6 +57,7 @@ public class ParallelMapperImpl implements ParallelMapper {
             list = new ArrayList<>(Collections.nCopies(n, null));
             size = 0;
         }
+
         void set(int i, T value) {
             synchronized (this) {
                 list.set(i, value);
