@@ -2,13 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9ebaab-2631-4663-ba58-8611a294c61c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/artifacts/ParallelMapperTest.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/java-advanced-2018.iml" afterPath="$PROJECT_DIR$/java-advanced-2018.iml" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" />
+      <change afterPath="$PROJECT_DIR$/GenerateJar.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/WebCrawlerTest.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/crawler/WebCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test01_oneEmptyFile.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test01_oneEmptyFile.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test02_tenEmptyFiles.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test03_missingFiles.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test04_errorReading.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test05_smallRandomFiles.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test06_mediumRandomFiles.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test07_largeRandomFiles.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你你的程問國持你請請支序程問支問的問中程序序國國程支的中序程" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你序持持中你中國的支序問持中序程你請問請支序支序問程程持序問" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/你程程請中國持問序請支中支中請問請請程問持國中請中持支請請的" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/問問問你持中問持中你序國國你請國中程持問序你序問程支的持你程" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序中中支序序國的支中持的問程請的的的國國中請問支的支程請請你" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序你持持國請中請程序國的持你問中問序請序中程的支國問你問中問" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/序國支請你請國國的國的持問支國程程你支序的程的你的請中序支程" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/持請請的支中序支程問持國程中問請持序程序的國序支持序的支問支" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/支中請持請的序問國序序問持請國支程中的請支國序問問請的你問持" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test08_chineseSupport/程國持程國中程問的序國程序序國你中持中國國程的程國的問國程問" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile.in" beforeDir="false" afterPath="$PROJECT_DIR$/__Test__Walk__/test13_veryLargeFile.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/arrayset/ArraySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/arrayset/ArraySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/walk/Walk.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/walk/Walk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test01_oneEmptyFile.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test01_oneEmptyFile.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test01_oneEmptyFile/4VTLTjIVw4LEsZydld09iGQNi7yGoQ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/5Xr3pHA7NshUACcLZJpiYhtkTuAExX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/77pjXGWBdMKx77Bh3RlQzBX0eiu70n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/8CSVQDX3zuFw9b76qInYVCjNydyyfx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/Egm0yMtOPYGDNHELJcPO44sVWYGR2p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/IOv9jdV7oKhpzTAp7mzvbkx7sXulVD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/iABUiurQqPpJBlTTMZH5gB7w0u1ljL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/jefBuAquqOOC58UTlqSrkrwuXbg0ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/sm9m6nFbDGyUCY89pcVnrBFH3UJgyf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/ttAcStBezgRhNz8k7VPFHOe7amPEcM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test02_tenEmptyFiles/uB1ZHzTwYW1veQKJVz7d9mgJsE71LW" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles/5BmhsIvjnFdI86jUvCSaZeHIWR8XTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles/8z3tkp4q1BxxH20ZNP2YTM1NlC2DVT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test03_missingFiles/Db7nnXCXH3YnGECoZh04RMlNOGuTYv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading/7oz4hAxnxsdmNpnJWmfevvx6zBqVH3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading/cHvZMdWL84GD6vSnnlP7FddEzD5FsR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test04_errorReading/vCCfS1Q0XMq7l3I5rS0Yg7sRpJP17R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/1AcQpq17XcBHtBKmN6sINq1Be3eNbG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/4kHisZcSPaFuEm3PACLtxzkt9d1fU4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/9uKpRWtooh77T2TWmYQehs5p9WVhbF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/GnawupXk2sCcMrIbdWdEx8j9xYM62e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/OMYatKmYiUNNQ1RV0Llh97x0bCIo9X" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/ZccG4auUpumuE2jWugKbbll0oyqVBb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/jSO7Jevsfgc5z7lpWCcZCSnYgTTMfv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/merowNLernryqAsrUabx5YrM3URaPB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/toHBqAYIa1oR7kjrnYjjcH2zGVNb27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test05_smallRandomFiles/x1oQ9CNAXpBvIDNjOGGLiOzsPJh5rz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/23o5JqEIOU8pDow895hflJrd3qbRbB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/LVfAoBEginwND2FAkqTOPYzB69WBHO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/NI6ogOnfm2daugEWGeRRORtvTKGSdP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/RT6ZxedhzCmgCVrZw7TMfjPQyEMvAT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/RqYUugZBCY08zhLWUlOB3yiFZdSuCq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/fkKdYIR9zavTK9tyrd3aOFUWksvjUc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/nfgPt5dfVePO4Mxz8VO4OFDzZF1bcn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/syOAFikrYBf4vQVPInpJ5movzfzom1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/wzJDBUlk9CuselAuhvyFYbBsvS7FXP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test06_mediumRandomFiles/xC8XaKhPlJyoFBREx8LjAUYBblihnc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/8Q9URWZFjuaWLSzHUhRgCKDA6QT4Q4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/8sodJ1hqpiyai2FnNKGXnaxfuKgiuO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/92M9mhjQOFtnrRvUSXj9eIzoqxLBTZ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/9jLx7HBVJvEZ7moT1kAlkMpKPUcnS8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/I4YUepp9fgRYPj7Hm3EM9dm25N9WyR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/J3uBJdfv2eS92XClQgOzz644FibZrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/P1HVPEAawLrihvU8VDksne3tQyGe9s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/pmJAKxcnpZ2eNjnSNLY3rWtFwnH7Rx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/qpr3oVtT7pfQ8qaw8uOXDHSoD5Ydju" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test07_largeRandomFiles/tUIwvoqAFThyVE2OfsOTMK3NzvlFmo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/你你的程問國持你請請支序程問支問的問中程序序國國程支的中序程" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/你序持持中你中國的支序問持中序程你請問請支序支序問程程持序問" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/你程程請中國持問序請支中支中請問請請程問持國中請中持支請請的" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/問問問你持中問持中你序國國你請國中程持問序你序問程支的持你程" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/序中中支序序國的支中持的問程請的的的國國中請問支的支程請請你" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/序你持持國請中請程序國的持你問中問序請序中程的支國問你問中問" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/序國支請你請國國的國的持問支國程程你支序的程的你的請中序支程" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/持請請的支中序支程問持國程中問請持序程序的國序支持序的支問支" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/支中請持請的序問國序序問持請國支程中的請支國序問問請的你問持" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test08_chineseSupport/程國持程國中程問的序國程序序國你中持中國國程的程國的問國程問" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test11_invalidOutput" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test12_singleArgument" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test13_veryLargeFile.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test13_veryLargeFile.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test13_veryLargeFile/ACxG1iM5JeKs7po5xtTNloqMFb8KoJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test14_invalidFiles.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-advanced-2018/__Test__Walk__/test14_invalidFiles.out" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +129,8 @@
       <file leaf-file-name="ParallelMapperImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-596">
-              <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+            <state relative-caret-position="45">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,12 +141,10 @@
       <file leaf-file-name="Concurrent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="285">
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,15 +170,14 @@
       <find>set</find>
       <find>random</find>
       <find>-</find>
+      <find>mutex</find>
     </findStrings>
+    <replaceStrings>
+      <replace>this</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,10 +209,14 @@
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/CachedRowSet.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/ParallelMapperImpl.java" />
-        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" />
-        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" />
+        <option value="$PROJECT_DIR$/GenerateJar.sh" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/RDouble.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" />
+        <option value="$PROJECT_DIR$/out/RDouble.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/crawler/WebCrawler.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" />
       </list>
     </option>
   </component>
@@ -118,6 +225,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="77" />
@@ -129,21 +239,14 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
       <hideEmptyPackages ProjectPane="false" />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,59 +268,19 @@
               <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="pakulev" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayset" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
-              <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="pakulev" type="462c0819:PsiDirectoryNode" />
               <item name="implementor" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -225,89 +288,42 @@
               <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="pakulev" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
-              <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="student" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="ifmo" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
-              <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="walk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="SearchEverywhereHistoryKey" value="struct&#9;ACTION&#9;ActivateStructureToolWindow&#10;STRUct&#9;ACTION&#9;ActivateStructureToolWindow&#10;setURL&#9;null&#9;null&#10;command line&#9;PSI&#9;JAVA://sun.tools.jar.CommandLine" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Logic/firstTaskKotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/artifacts/WebCrawlerTest.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="struct&#9;ACTION&#9;ActivateStructureToolWindow&#10;STRUct&#9;ACTION&#9;ActivateStructureToolWindow&#10;setURL&#9;null&#9;null&#10;command line&#9;PSI&#9;JAVA://sun.tools.jar.CommandLine" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artifacts" />
       <recent name="C:\Code\java-advanced-2018\artifacts" />
-      <recent name="C:\Code\java-advanced-2018" />
-      <recent name="C:\Code\java-advanced-2018\src" />
-      <recent name="C:\Code\java-advanced-2018\src\java\info" />
-      <recent name="C:\Code\java-advanced-2018\src\artifacts" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ru.ifmo.rain.pakulev.mapper" />
       <recent name="java.info.kgeorgiy.java.advanced.walk" />
       <recent name="java.info.kgeorgiy.java.advanced.walk.samples" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out" />
       <recent name="C:\Code\java-advanced-2018\artifacts" />
+      <recent name="C:\Code\java-advanced-2018" />
+      <recent name="C:\Code\java-advanced-2018\src" />
+      <recent name="C:\Code\java-advanced-2018\src\java\info" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -324,164 +340,82 @@
   </component>
   <component name="RunManager" selected="Application.ParallelMappedTest">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration name=" ImplementorTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.implementor.Tester" />
-      <option name="VM_PARAMETERS" value="" />
+      <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="interface ru.ifmo.rain.pakulev.implementor.Implementor" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-advanced-2018" />
-      <envs />
     </configuration>
     <configuration name="Implementor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.implementor.Implementor1" />
+      <module name="java-advanced-2018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.ifmo.rain.pakulev.implementor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.implementor.Implementor1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-advanced-2018" />
-      <envs />
     </configuration>
     <configuration name="IterativeParallelismTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.concurrent.Tester" />
-      <option name="VM_PARAMETERS" value="" />
+      <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="list ru.ifmo.rain.pakulev.concurrent.Concurrent" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-advanced-2018" />
-      <envs />
     </configuration>
     <configuration name="JarImplementorTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.implementor.Tester" />
-      <option name="VM_PARAMETERS" value="" />
+      <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="jar-interface ru.ifmo.rain.pakulev.implementor.Implementor" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-advanced-2018" />
-      <envs />
     </configuration>
     <configuration name="ParallelMappedTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.mapper.Tester" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="scalar ru.ifmo.rain.pakulev.mapper.ParallelMapperImpl,ru.ifmo.rain.pakulev.mapper.Concurrent" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="java-advanced-2018" />
-      <envs />
+      <option name="PROGRAM_PARAMETERS" value="list ru.ifmo.rain.pakulev.mapper.ParallelMapperImpl,ru.ifmo.rain.pakulev.mapper.Concurrent" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration name="SortedSetTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.arrayset.Tester" />
-      <option name="VM_PARAMETERS" value="" />
+      <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="SortedSet ru.ifmo.rain.pakulev.arrayset.ArraySet" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-advanced-2018" />
-      <envs />
     </configuration>
     <configuration name="StudentQueryTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.student.Tester" />
-      <option name="VM_PARAMETERS" value="" />
+      <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="StudentQuery ru.ifmo.rain.pakulev.student.StudentDB" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-advanced-2018" />
-      <envs />
     </configuration>
     <configuration name="TTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.implementor.TTT" />
+      <module name="java-advanced-2018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.ifmo.rain.pakulev.implementor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.implementor.TTT" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-advanced-2018" />
-      <envs />
     </configuration>
     <configuration name="WalkTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.walk.Tester" />
-      <option name="VM_PARAMETERS" value="" />
+      <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="Walk ru.ifmo.rain.pakulev.walk.Walk" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    </configuration>
+    <configuration name="WebCrawlerTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.crawler.Tester" />
       <module name="java-advanced-2018" />
-      <envs />
+      <option name="PROGRAM_PARAMETERS" value="easy ru.ifmo.rain.pakulev.crawler.WebCrawler" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -491,24 +425,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -521,17 +444,21 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -539,26 +466,24 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="9">
-      <item index="0" class="java.lang.String" itemvalue="Application.ParallelMappedTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.IterativeParallelismTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.JarImplementorTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application. ImplementorTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StudentQueryTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SortedSetTest" />
-      <item index="6" class="java.lang.String" itemvalue="Application.WalkTest" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Implementor1" />
-      <item index="8" class="java.lang.String" itemvalue="Application.TTT" />
+    <list>
+      <item itemvalue="Application.WebCrawlerTest" />
+      <item itemvalue="Application.ParallelMappedTest" />
+      <item itemvalue="Application.IterativeParallelismTest" />
+      <item itemvalue="Application.JarImplementorTest" />
+      <item itemvalue="Application. ImplementorTest" />
+      <item itemvalue="Application.StudentQueryTest" />
+      <item itemvalue="Application.SortedSetTest" />
+      <item itemvalue="Application.WalkTest" />
+      <item itemvalue="Application.Implementor1" />
+      <item itemvalue="Application.TTT" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.TTT" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Implementor1" />
+      <list>
+        <item itemvalue="Application.TTT" />
+        <item itemvalue="Application.Implementor1" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INHERITED" />
@@ -587,7 +512,12 @@
       <workItem from="1521464571965" duration="20678000" />
       <workItem from="1522224689773" duration="13137000" />
       <workItem from="1522328531484" duration="26000" />
-      <workItem from="1522761853772" duration="40720000" />
+      <workItem from="1522761853772" duration="41771000" />
+      <workItem from="1523399349473" duration="626000" />
+      <workItem from="1523443167411" duration="5401000" />
+      <workItem from="1523530095182" duration="599000" />
+      <workItem from="1523961296790" duration="17023000" />
+      <workItem from="1524578271902" duration="3494000" />
     </task>
     <task id="LOCAL-00001" summary="homework 3">
       <created>1520076302240</created>
@@ -645,44 +575,51 @@
       <option name="project" value="LOCAL" />
       <updated>1522782568023</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="something">
+      <created>1522842558226</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1522842558226</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192397000" />
+    <option name="totallyTimeSpent" value="220591000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1039" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18660812" sideWeight="0.50208336" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3194292" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33150384" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40834248" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="848" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32864866" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50208336" side_tool="true" weight="0.18660812" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49791667" weight="0.22918919" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24756756" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17135416" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40834248" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" x="91" y="91" width="1738" height="848" id="Documentation" order="9" type="FLOATING" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32930845" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -698,137 +635,66 @@
     <MESSAGE value="homework 4" />
     <MESSAGE value="homework 5,6..." />
     <MESSAGE value="homework 7 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 7 complete" />
+    <MESSAGE value="something" />
+    <option name="LAST_COMMIT_MESSAGE" value="something" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java</url>
-          <line>41</line>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java</url>
-          <line>77</line>
-          <properties />
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java</url>
-          <line>15</line>
-          <properties class="ru.ifmo.rain.pakulev.mapper.ParallelMapperImpl" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="54" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/artifacts/StudentTest.jar!/info/kgeorgiy/java/advanced/student/Student.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/PrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1798">
-          <caret line="615" column="16" lean-forward="false" selection-start-line="615" selection-start-column="16" selection-end-line="615" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="87" column="11" lean-forward="false" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/BasicInterfaceImplementorTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="33" column="94" lean-forward="false" selection-start-line="33" selection-start-column="94" selection-end-line="33" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="240" column="22" lean-forward="false" selection-start-line="240" selection-start-column="22" selection-end-line="240" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/full/DataInput.class" />
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/full/DataOutput.class" />
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/Impler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/Descriptor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-84">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/Accessible.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/Logger.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-84">
-          <caret line="15" column="95" lean-forward="false" selection-start-line="15" selection-start-column="95" selection-end-line="15" selection-end-column="95" />
+          <caret line="15" column="95" selection-start-line="15" selection-start-column="95" selection-end-line="15" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/RandomAccess.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/full/AccessibleAction.class" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor1.java" />
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/full/SDeprecated.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/SQLException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/SQLException.java" />
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/InterfaceImplementorTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-639">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/examples/full/InterfaceWithoutMethods.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/base/CG.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -839,7 +705,7 @@
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/examples/basic/InterfaceWithDefaultMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -851,147 +717,178 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/test.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/sql/RowSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="86" column="17" lean-forward="false" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/sql/RowSet.java" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/CachedRowSet.java" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/CachedRowSetImpl.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="224" column="20" lean-forward="false" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Method.java" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/TTT.java" />
     <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/full/CachedRowSet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="78" lean-forward="true" selection-end-line="94" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/CachedRowSet.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/Implementor.html" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/package-frame.html" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/package-summary.html" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/package-tree.html" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/ToIntFunction.java" />
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding />
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="9" column="129" lean-forward="false" selection-start-line="9" selection-start-column="129" selection-end-line="9" selection-end-column="129" />
-          <folding />
+          <caret line="9" column="129" selection-start-line="9" selection-start-column="129" selection-end-line="9" selection-end-column="129" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
-          <caret line="38" column="82" lean-forward="false" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
-          <folding />
+          <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/rules/TestWatcher.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/IterativeParallelismTest.jar!/info/kgeorgiy/java/advanced/concurrent/ScalarIPTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="43" column="335" lean-forward="false" selection-start-line="43" selection-start-column="335" selection-end-line="43" selection-end-column="335" />
-          <folding />
+          <caret line="43" column="335" selection-start-line="43" selection-start-column="335" selection-end-line="43" selection-end-column="335" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-          <folding />
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/artifacts/ParallelMapperTest.jar!/info/kgeorgiy/java/advanced/mapper/ScalarMapperTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="11" column="103" lean-forward="false" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
-          <folding />
+          <caret line="11" column="103" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class" />
+    <entry file="file://$USER_HOME$/.cache/.fr-KHVfRm/ru/ifmo/rain/pakulev/implementor/Implementor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/.fr-yGcxU4/java/util/SetImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib64/openjdk-8/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="289" column="22" selection-start-line="289" selection-start-column="22" selection-end-line="289" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/JarImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/Impler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/base/CG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-533">
-          <caret line="109" column="55" lean-forward="false" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="55" />
+        <state relative-caret-position="3135">
+          <caret line="224" column="85" selection-start-line="224" selection-start-column="85" selection-end-line="224" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/RDouble.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/RDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GenerateJar.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="54" column="91" selection-start-line="54" selection-start-column="91" selection-end-line="54" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/crawler/WebCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="285">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-596">
-          <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        <state relative-caret-position="45">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1051,6 +948,17 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>java-advanced-2018</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

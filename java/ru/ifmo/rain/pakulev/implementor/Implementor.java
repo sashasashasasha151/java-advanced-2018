@@ -1,6 +1,5 @@
 package ru.ifmo.rain.pakulev.implementor;
 
-import info.kgeorgiy.java.advanced.implementor.Impler;
 import info.kgeorgiy.java.advanced.implementor.ImplerException;
 import info.kgeorgiy.java.advanced.implementor.JarImpler;
 
@@ -10,6 +9,7 @@ import java.io.*;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 import java.nio.file.Files;
+import java.nio.file.InvalidPathException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.jar.Attributes;
@@ -18,54 +18,63 @@ import java.util.jar.Manifest;
 import java.util.zip.ZipEntry;
 
 
+/**
+ * Class implementing {@link JarImpler} interface
+ */
 
-public class Implementor implements Impler, JarImpler {
+public class Implementor implements JarImpler {
     /**
-     * Object that create all implementing class
+     * {@link StringBuilder} which collect all generated code
      */
     private StringBuilder builder;
 
     /**
-     * String of the class package
+     * {@link String} with package name of generating class
      */
     private String pack;
 
     /**
-     * String of the class name
+     * {@link String} with generating class name
      */
     private String name;
 
     /**
-     * File that signifying class
+     * {@link File} of generating class
      */
     private File file;
 
     /**
-     * String of file separator
+     * {@link String} of file separator
      */
     private String sh = File.separator;
 
     /**
-     * Add throws to your stringbuilder object
-     *
-     * @param e Array of exceptions
+     * Constructor for class {@code Implementor}
      */
-    private void makeThrow(Class<?>[] e) {
-        if (e.length != 0) {
+    public Implementor() {
+    }
+
+    /**
+     * Add throws of generated method to {@link #builder}
+     *
+     * @param exceptions Array of exceptions
+     */
+    private void makeThrow(Class<?>[] exceptions) {
+        if (exceptions.length != 0) {
             builder.append(" throws ");
         }
-        for (int i = 0; i < e.length; i++) {
-            builder.append(e[i].getName());
-            if (i != e.length - 1) {
+        for (int i = 0; i < exceptions.length; i++) {
+            builder.append(exceptions[i].getName());
+            if (i != exceptions.length - 1) {
                 builder.append(", ");
             }
         }
     }
 
     /**
-     * Add returns to your stringbuilder object
+     * Add basic return of generated method to {@link #builder}
      *
-     * @param aClass Your class
+     * @param aClass {@link Class} of return value of the method
      */
     private void makeReturn(Class<?> aClass) {
         if (aClass.equals(void.class)) {
@@ -80,9 +89,9 @@ public class Implementor implements Impler, JarImpler {
     }
 
     /**
-     * Add returns to your stringbuilder object
+     * Add generated method to {@link #builder}
      *
-     * @param method One of methods
+     * @param method {@link Method} which we need to generate
      */
     private void makeMethod(Method method) {
         builder.append(Modifier.toString(method.getModifiers()).replace("abstract", "")
@@ -104,10 +113,10 @@ public class Implementor implements Impler, JarImpler {
     }
 
     /**
-     * Build class
+     * Generate class and add collect it to {@link #builder}
      *
-     * @param aClass Your class
-     * @throws ImplerException exception of Implementor
+     * @param aClass {@link Class} which we need to generate
+     * @throws ImplerException if given class is not an interface
      */
     private void makeInterface(Class<?> aClass) throws ImplerException {
         if (!Modifier.isInterface(aClass.getModifiers())) {
@@ -131,11 +140,11 @@ public class Implementor implements Impler, JarImpler {
 
 
     /**
-     * Make class and write it to java file
+     * Generate class and write it to java file
      *
-     * @param aClass Your class
-     * @param path   Path to set your file
-     * @throws ImplerException if there is no accessible constructor in superclass or interface
+     * @param aClass {@link Class} which we need to generate
+     * @param path   {@link Path} where should be located generated class
+     * @throws ImplerException if given class cannot be generated
      */
     public void implement(Class<?> aClass, Path path) throws ImplerException {
         builder = new StringBuilder();
@@ -161,11 +170,11 @@ public class Implementor implements Impler, JarImpler {
     }
 
     /**
-     * Implements class by given type-token and put it to .jar file
+     * Generate class and put it to .jar file
      *
-     * @param aClass Your class
-     * @param path   Path to your jar file
-     * @throws ImplerException Exception of implementJar
+     * @param aClass {@link Class} which we need to generate
+     * @param path   {@link Path} where should be located .jar file
+     * @throws ImplerException if given class cannot be generated
      */
     public void implementJar(Class<?> aClass, Path path) throws ImplerException {
         Path tmp = Paths.get("." + sh + "tmp");
@@ -181,6 +190,43 @@ public class Implementor implements Impler, JarImpler {
             Files.copy(Paths.get(compiledClass.getPath()), jOut);
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+
+    /**
+     * Start app from command line
+     * @param args arguments of command line
+     */
+    public static void main(String[] args) {
+        if (args == null) {
+            System.err.println("Arguments couldn't be null");
+            return;
+        }
+
+        if (args.length < 2 || args.length > 3) {
+            System.err.println("Only two or three arguments allowed");
+            return;
+        }
+
+        Implementor implementor = new Implementor();
+
+        try {
+            if (args.length == 2) {
+                implementor.implement(Class.forName(args[0]), Paths.get(args[1]));
+            }
+            if (args.length == 3) {
+                if (args[0].equals("-jar")) {
+                    implementor.implementJar(Class.forName(args[1]), Paths.get(args[2]));
+                } else {
+                    System.err.println("No -jar argument found");
+                }
+            }
+        } catch (ClassNotFoundException e) {
+            System.out.println(((args.length == 2) ? args[0] : args[1]) + " class not found");
+        } catch (InvalidPathException e) {
+            System.out.println(((args.length == 2) ? args[1] : args[2]) + " path is invalid");
+        } catch (ImplerException e) {
+            System.out.println(e.getMessage());
         }
     }
 }

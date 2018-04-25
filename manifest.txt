@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: out.production.java-advanced-2018.ru.ifmo.rain.pakulev.implementor.Implementor
