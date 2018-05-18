@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9ebaab-2631-4663-ba58-8611a294c61c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/artifacts/HelloUDPTest.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ParallelMapperImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ParallelMapperImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Concurrent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,8 +47,62 @@
       <file leaf-file-name="Concurrent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+            <state relative-caret-position="374">
+              <caret line="24" column="31" selection-end-line="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloUDPClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="714">
+                <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tester.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/info/kgeorgiy/java/advanced/hello/Tester.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseTester.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/info/kgeorgiy/java/advanced/base/BaseTester.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloUDPServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1207">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,11 +172,18 @@
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor.java" />
         <option value="$PROJECT_DIR$/GenerateJar.sh" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/RDouble.java" />
-        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" />
         <option value="$PROJECT_DIR$/out/RDouble.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/crawler/WebCrawler.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/HelloUDPServer.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/HelloUDPClient.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/Client.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/Server.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPServer.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPClient.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -119,10 +197,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="77" />
-    <option name="y" value="-20" />
-    <option name="width" value="1400" />
-    <option name="height" value="990" />
+    <option name="x" value="100" />
+    <option name="width" value="1390" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -134,9 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,75 +218,41 @@
               <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="crawler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="implementor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="struct&#9;ACTION&#9;ActivateStructureToolWindow&#10;STRUct&#9;ACTION&#9;ActivateStructureToolWindow&#10;setURL&#9;null&#9;null&#10;command line&#9;PSI&#9;JAVA://sun.tools.jar.CommandLine" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/artifacts/WebCrawlerTest.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/artifacts" />
-      <recent name="C:\Code\java-advanced-2018\artifacts" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ru.ifmo.rain.pakulev.mapper" />
-      <recent name="java.info.kgeorgiy.java.advanced.walk" />
-      <recent name="java.info.kgeorgiy.java.advanced.walk.samples" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/out" />
       <recent name="C:\Code\java-advanced-2018\artifacts" />
       <recent name="C:\Code\java-advanced-2018" />
       <recent name="C:\Code\java-advanced-2018\src" />
       <recent name="C:\Code\java-advanced-2018\src\java\info" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.ifmo.rain.pakulev.mapper" />
+      <recent name="java.info.kgeorgiy.java.advanced.walk" />
+      <recent name="java.info.kgeorgiy.java.advanced.walk.samples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artifacts" />
+      <recent name="C:\Code\java-advanced-2018\artifacts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -227,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParallelMappedTest">
+  <component name="RunManager" selected="Application.Server">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -236,6 +276,23 @@
       <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="interface ru.ifmo.rain.pakulev.implementor.Implementor" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.hello.Tester" />
+      <module name="java-advanced-2018" />
+      <option name="PROGRAM_PARAMETERS" value="client-i18n ru.ifmo.rain.pakulev.hello.HelloUDPClient" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="HelloUDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.hello.HelloUDPServer" />
+      <module name="java-advanced-2018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.pakulev.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Implementor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.implementor.Implementor1" />
@@ -264,6 +321,12 @@
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.mapper.Tester" />
       <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="list ru.ifmo.rain.pakulev.mapper.ParallelMapperImpl,ru.ifmo.rain.pakulev.mapper.Concurrent" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.hello.Tester" />
+      <module name="java-advanced-2018" />
+      <option name="PROGRAM_PARAMETERS" value="server-i18n ru.ifmo.rain.pakulev.hello.HelloUDPServer" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration name="SortedSetTest" type="Application" factoryName="Application">
@@ -356,6 +419,8 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
       <item itemvalue="Application.WebCrawlerTest" />
       <item itemvalue="Application.ParallelMappedTest" />
       <item itemvalue="Application.IterativeParallelismTest" />
@@ -366,9 +431,12 @@
       <item itemvalue="Application.WalkTest" />
       <item itemvalue="Application.Implementor1" />
       <item itemvalue="Application.TTT" />
+      <item itemvalue="Application.HelloUDPServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloUDPServer" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.TTT" />
         <item itemvalue="Application.Implementor1" />
       </list>
@@ -407,7 +475,14 @@
       <workItem from="1523530095182" duration="599000" />
       <workItem from="1523961296790" duration="17023000" />
       <workItem from="1524578271902" duration="3494000" />
-      <workItem from="1524682684999" duration="1604000" />
+      <workItem from="1524682684999" duration="1814000" />
+      <workItem from="1525522640194" duration="3267000" />
+      <workItem from="1525693122615" duration="423000" />
+      <workItem from="1525693568952" duration="6631000" />
+      <workItem from="1525774901131" duration="4875000" />
+      <workItem from="1526038232303" duration="2363000" />
+      <workItem from="1526456388754" duration="12890000" />
+      <workItem from="1526654526070" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="homework 3">
       <created>1520076302240</created>
@@ -486,11 +561,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524683729926</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="something">
+      <created>1524684746205</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1524684746205</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222195000" />
+    <option name="totallyTimeSpent" value="253561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1039" extended-state="6" />
@@ -505,18 +587,18 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49791667" weight="0.22918919" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24756756" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49791667" weight="0.26702702" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.24756756" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17135416" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17135416" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.40834248" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40756756" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -552,58 +634,23 @@
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/Client.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/Client.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="54" />
+      <option name="time" value="66" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/Descriptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/Accessible.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/Logger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="15" column="95" selection-start-line="15" selection-start-column="95" selection-end-line="15" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/basic/RandomAccess.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/full/AccessibleAction.class" />
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/Implementor1.java" />
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/standard/full/SDeprecated.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/SQLException.java" />
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/InterfaceImplementorTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-639">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/info/kgeorgiy/java/advanced/implementor/examples/full/InterfaceWithoutMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/info/kgeorgiy/java/advanced/implementor/examples/basic/InterfaceWithStaticMethodImpl.java" />
     <entry file="file://$PROJECT_DIR$/info/kgeorgiy/java/advanced/implementor/standard/basic/AccessibleImpl.java" />
     <entry file="file://$PROJECT_DIR$/info/kgeorgiy/java/advanced/implementor/standard/basic/DescriptorImpl.java" />
     <entry file="file://$PROJECT_DIR$/info/kgeorgiy/java/advanced/implementor/standard/basic/RandomAccessImpl.java" />
@@ -718,9 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3135">
           <caret line="224" column="85" selection-start-line="224" selection-start-column="85" selection-end-line="224" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,10 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,42 +789,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="54" column="91" selection-start-line="54" selection-start-column="91" selection-end-line="54" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/crawler/WebCrawler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/ParallelMapperImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/concurrent/Concurrent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/Client.java" />
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="31" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/UDP/Server.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="212" column="20" selection-start-line="212" selection-start-column="8" selection-end-line="212" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/info/kgeorgiy/java/advanced/hello/HelloServerTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3740">
+          <caret line="236" column="115" selection-start-line="236" selection-start-column="115" selection-end-line="236" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/info/kgeorgiy/java/advanced/hello/Util.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/info/kgeorgiy/java/advanced/hello/Tester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/info/kgeorgiy/java/advanced/hello/HelloClientTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/HelloUDPTest.jar!/info/kgeorgiy/java/advanced/base/BaseTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/hello/HelloUDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="714">
+            <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
