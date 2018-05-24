@@ -59,7 +59,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/artifacts/WebCrawlerTest.jar!/" />
+          <root url="jar://$MODULE_DIR$/artifacts/HelloUDPTest.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -68,7 +68,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/artifacts/HelloUDPTest.jar!/" />
+          <root url="jar://$MODULE_DIR$/artifacts/WebCrawlerTest.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
