@@ -1,5 +1,6 @@
 package ru.ifmo.rain.pakulev.rmi;
 
+import java.io.Serializable;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 

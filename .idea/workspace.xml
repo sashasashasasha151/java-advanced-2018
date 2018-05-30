@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9ebaab-2631-4663-ba58-8611a294c61c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemotePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/StatInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/TextStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_en.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_ru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/output.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,69 +20,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java_advanced_2018$TextStatistics.ic" NAME="TextStatistics Coverage Results" MODIFIED="1527635883784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.ifmo.rain.pakulev.statistic.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Server.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoteBank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteBank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoteAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemotePerson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemotePerson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Account.java">
+      <file leaf-file-name="StatInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/StatInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/output.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Client.java">
+      <file leaf-file-name="TextStatistics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/TextStatistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="367">
+              <caret line="111" column="39" lean-forward="true" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,14 +69,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Bank.java">
+      <file leaf-file-name="UsageResourceBundle_en.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_en.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="586">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsageResourceBundle_ru.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_ru.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding>
+                <element signature="e#1597#1598#0" expanded="true" />
+                <element signature="e#1628#1629#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="140" selection-start-column="140" selection-end-column="140" />
             </state>
           </provider>
         </entry>
@@ -135,6 +125,8 @@
       <find>random</find>
       <find>-</find>
       <find>mutex</find>
+      <find>Chinese</find>
+      <find>Thai (Thailand,TH)</find>
     </findStrings>
     <replaceStrings>
       <replace>this</replace>
@@ -146,13 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java/ru/ifmo/rain/pakulev/walk/Walk.java" />
-        <option value="$PROJECT_DIR$/src/java/info/kgeorgiy/java/advanced/base/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/java/info/kgeorgiy/java/advanced/walk/samples/Walk.java" />
-        <option value="$PROJECT_DIR$/src/java/info/kgeorgiy/java/advanced/walk/Walk.java" />
-        <option value="$PROJECT_DIR$/src/java/info/kgeorgiy/java/advanced/walk/Tester.java" />
-        <option value="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/walk/Tester.java" />
-        <option value="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/WalkTest.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/ArraySet/ArraySet.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/walk/Test.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/arrayset/ArraySet.java" />
@@ -191,12 +176,19 @@
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/startServer.sh" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/build.sh" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Server.java" />
-        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemotePerson.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteBank.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Client.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Account.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Bank.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_en_US.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/StatInfo.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_en.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/Test.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/input.txt" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_ru.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/TextStatistics.java" />
       </list>
     </option>
   </component>
@@ -210,9 +202,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="width" value="1390" />
-    <option name="height" value="994" />
+    <option name="x" value="39" />
+    <option name="width" value="1380" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -261,14 +253,14 @@
               <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="statistic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced-2018" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pakulev" type="462c0819:PsiDirectoryNode" />
-              <item name="rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -317,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.rmiClient">
+  <component name="RunManager" selected="Application.TextStatistics">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -332,17 +324,6 @@
       <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="client-i18n ru.ifmo.rain.pakulev.hello.HelloUDPClient" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="HelloUDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.hello.HelloUDPServer" />
-      <module name="java-advanced-2018" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.ifmo.rain.pakulev.hello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="IterativeParallelismTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.concurrent.Tester" />
@@ -379,6 +360,29 @@
       <module name="java-advanced-2018" />
       <option name="PROGRAM_PARAMETERS" value="StudentQuery ru.ifmo.rain.pakulev.student.StudentDB" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.statistic.Test" />
+      <module name="java-advanced-2018" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.pakulev.statistic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TextStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.pakulev.statistic.TextStatistics" />
+      <module name="java-advanced-2018" />
+      <option name="PROGRAM_PARAMETERS" value="Chinese Russian java/ru/ifmo/rain/pakulev/statistic/input.txt java/ru/ifmo/rain/pakulev/statistic/output.html" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.pakulev.statistic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="WalkTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="info.kgeorgiy.java.advanced.walk.Tester" />
@@ -425,15 +429,6 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/build.sh" />
-      <option name="PARAMETERS" value="" />
-    </configuration>
-    <configuration name="startServer.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
-      <module name="java-advanced-2018" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/startServer.sh" />
       <option name="PARAMETERS" value="" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -498,24 +493,24 @@
       <item itemvalue="Application.StudentQueryTest" />
       <item itemvalue="Application.SortedSetTest" />
       <item itemvalue="Application.WalkTest" />
-      <item itemvalue="Application.HelloUDPServer" />
       <item itemvalue="Application.rmiServer" />
       <item itemvalue="Application.rmiClient" />
+      <item itemvalue="Application.TextStatistics" />
+      <item itemvalue="Application.Test" />
       <item itemvalue="Bash.build.sh" />
-      <item itemvalue="Bash.startServer.sh" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextStatistics" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.rmiClient" />
         <item itemvalue="Application.rmiServer" />
         <item itemvalue="Bash.build.sh" />
-        <item itemvalue="Bash.startServer.sh" />
-        <item itemvalue="Application.HelloUDPServer" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INHERITED" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -558,7 +553,7 @@
       <workItem from="1527006188020" duration="23221000" />
       <workItem from="1527074047928" duration="3793000" />
       <workItem from="1527331036626" duration="156000" />
-      <workItem from="1527331217161" duration="13411000" />
+      <workItem from="1527331217161" duration="57412000" />
     </task>
     <task id="LOCAL-00001" summary="homework 3">
       <created>1520076302240</created>
@@ -658,11 +653,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527142444133</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="hw11 rmi">
+      <created>1527408093714</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1527408093714</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294441000" />
+    <option name="totallyTimeSpent" value="338442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1039" extended-state="6" />
@@ -674,22 +676,23 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50208336" side_tool="true" weight="0.18660812" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026042" side_tool="true" weight="0.30486485" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49791667" visible="true" weight="0.26702702" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3149946" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49739584" visible="true" weight="0.30486485" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3145946" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17135416" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992224" visible="true" weight="0.13333334" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5007776" side_tool="true" visible="true" weight="0.13333334" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.40756756" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3318919" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -715,7 +718,8 @@
     <MESSAGE value="something" />
     <MESSAGE value="1-8,10 complete" />
     <MESSAGE value="hw9 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw9 complete" />
+    <MESSAGE value="hw11 rmi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw11 rmi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -738,37 +742,17 @@
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/TextStatistics.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="66" />
+      <option name="time" value="78" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/Implementor.html" />
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/package-frame.html" />
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/package-summary.html" />
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/implementor/ru/ifmo/rain/pakulev/implementor/package-tree.html" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/ToIntFunction.java" />
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="129" selection-start-line="9" selection-start-column="129" selection-end-line="9" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/rules/TestWatcher.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
@@ -1005,23 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteBank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1030,16 +997,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#399#400#0" expanded="true" />
             <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1054,10 +1011,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemotePerson.java">
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemoteAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1071,10 +1038,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Client.java">
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/rmi/RemotePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/student/StudentDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/mapper/Concurrent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="63" column="78" lean-forward="true" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/StatInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_en.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="140" selection-start-column="140" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/output.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/UsageResourceBundle_ru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding>
+            <element signature="e#1597#1598#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/pakulev/statistic/TextStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="111" column="39" lean-forward="true" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
