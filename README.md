@@ -115,9 +115,9 @@
  * простой вариант:
     ```info.kgeorgiy.java.advanced.concurrent.Tester scalar <полное имя класса>```
 
-  Класс должен реализовывать интерфейс `ScalarIP`.
+ * Класс должен реализовывать интерфейс `ScalarIP`.
 
  * сложный вариант:
     ```info.kgeorgiy.java.advanced.concurrent.Tester list <полное имя класса>```
 
-  Класс должен реализовывать интерфейс `ListIP`.
+ * Класс должен реализовывать интерфейс `ListIP`.
