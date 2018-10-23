@@ -121,7 +121,7 @@
     * Класс должен реализовывать интерфейс `ListIP`.
 # 8. Параллельный запуск
 1. Напишите класс `ParallelMapperImpl`, реализующий интерфейс `ParallelMapper`.
-    ```
+    ```java
     public interface ParallelMapper extends AutoCloseable {
         <T, R> List<R> run(
             Function<? super T, ? extends R> f, 
