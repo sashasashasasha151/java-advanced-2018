@@ -62,8 +62,17 @@
     * сложный вариант:
         ```info.kgeorgiy.java.advanced.walk.Tester RecursiveWalk <полное имя класса>```
  * Обратите внимание, что все скачанные `.jar` файлы должны быть указаны в `CLASSPATH`.
+# 2. ArraySortedSet
+1. Разработайте класс `ArraySet`, реализующие неизменяемое упорядоченное множество.
+    * Класс `ArraySet` должен реализовывать интерфейс `SortedSet` (упрощенная версия) или `NavigableSet` (усложненная версия).
+    * Все операции над множествами должны производиться с максимально возможной асимптотической эффективностью.
+2. При выполнении задания следует обратить внимание на:
+    * Применение стандартных коллекций.
+    * Избавление от повторяющегося кода.
+    
+Тестирование
 
-Исходный код тестов:
-
- * [простой вариант](java/info/kgeorgiy/java/advanced/walk/WalkTest.java)
- * [сложный вариант](java/info/kgeorgiy/java/advanced/walk/RecursiveWalkTest.java)
+ * простой вариант:
+    ```info.kgeorgiy.java.advanced.arrayset.Tester SortedSet <полное имя класса>```
+ * сложный вариант:
+    ```info.kgeorgiy.java.advanced.arrayset.Tester NavigableSet <полное имя класса>```
